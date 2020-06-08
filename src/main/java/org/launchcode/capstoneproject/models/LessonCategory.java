@@ -1,8 +1,9 @@
-/*package org.launchcode.capstoneproject.models;
+package org.launchcode.capstoneproject.models;
 
 import org.springframework.boot.autoconfigure.domain.EntityScan;
 import org.springframework.stereotype.Controller;
 
+import javax.persistence.Entity;
 import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.Size;
 
@@ -29,5 +30,5 @@ public class LessonCategory {
 
     @Override
     public String toString() {return name;}
-    }
-}*/
+
+}

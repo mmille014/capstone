@@ -1,4 +1,4 @@
-/*package org.launchcode.capstoneproject.models;
+package org.launchcode.capstoneproject.models;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -69,4 +69,4 @@ public class Lesson<LessonType> extends AbstractEntity {
     public String toString() {
         return name;
     }
-}*/
+}
